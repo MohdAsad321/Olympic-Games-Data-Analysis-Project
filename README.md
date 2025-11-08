@@ -2,6 +2,8 @@
 # Project Description -->
 This project explores 120 years of Olympic history using the popular Kaggle dataset athlete_events.csv. The dataset contains 271,000+ athlete-event records from Athens 1896 to Rio 2016, covering athlete demographics, event information, and medal outcomes.
 The goal of this analysis is to uncover insights about how the Olympics have evolved over time across countries, sports, and athletes.
+
+# Dataset Link --> https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 # The project performs an end-to-end exploratory data analysis (EDA) of the modern Olympic Games. It includes:
 Understanding long-term trends in participation
 Evaluating medal performance across nations
